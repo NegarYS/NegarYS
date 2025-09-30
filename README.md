@@ -17,13 +17,15 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 ---
+ 
 
-## 📂 Featured Projects  
+## 💻 Featured Projects
 
-- 🚗 **[Fraud Detection in Car Insurance](#)** – Built ML models to detect fraudulent claims  
-- 🔎 **[Search Algorithms Comparison](#)** – Implemented BFS, A*, Greedy & UCS with performance analysis  
-- 📊 **[Dimensionality Reduction on MNIST](#)** – Applied PCA & t-SNE with trustworthiness evaluation  
-- 📑 **[Compiler Lexical Analyzer](#)** – Designed a lexer for a custom language in C  
+- 🚗 [Fraud Detection in Car Insurance](https://github.com/NegarYS/FraudDetection) – Built ML models to detect fraudulent claims  
+- 🔎 [Search Algorithms Comparison](https://github.com/your-username/search-algorithms-comparison) – Implemented BFS, A*, Greedy & UCS with performance analysis  
+- 📊 [Dimensionality Reduction on MNIST](https://github.com/NegarYS/Dimension-Reduction-on-MNIST) – Applied PCA & t-SNE with trustworthiness evaluation  
+- 📑 [Text clustring using NMF and LSA](https://github.com/NegarYS/Text-Clustering-NMF-LSA) – Applied NMF & LSA for feature extraction and clustering of high-dimensional text data  
+
 
 ---
 
